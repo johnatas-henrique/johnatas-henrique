@@ -38,6 +38,6 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 
 ![Meus github stats](https://github-readme-stats.vercel.app/api?username=johnatas-henrique&count_private=true&show_icons=true&theme=buefy)
 
-<img src="https://komarev.com/ghpvc/?username=johnatas-henrique" alt="johnatas-henrique" /> [![HitCount](http://hits.dwyl.com/johnatas-henrique/johnatas-henrique.svg)](http://hits.dwyl.com/johnatas-henrique/johnatas-henrique)
+[![HitCount](http://hits.dwyl.com/johnatas-henrique/johnatas-henrique.svg)](http://hits.dwyl.com/johnatas-henrique/johnatas-henrique)
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
