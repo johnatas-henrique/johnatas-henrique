@@ -26,7 +26,7 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para johnatas.henrique@gmail.com para me encontrar.
-- 📝 Veja meu [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) para mais informações.
+- 📝 Veja meu [Curriculum Vitae](https://www.google.com.br) para mais informações.
 
 
 **Linguagens e ferramentas:**  
