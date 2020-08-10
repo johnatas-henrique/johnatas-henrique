@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente trabalho como **Summer Intern na Trybe** 🚀. 
+Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente trabalho como **Student in Summer Job na Trybe** 🚀. 
 
 **Meus interesses pessoais:**
 
