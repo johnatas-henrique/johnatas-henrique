@@ -1,13 +1,13 @@
-<a href="https://github.com/johnatas-henrique">
+<a href="https://github.com/johnatas-henrique" target="blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/johnatashenrique/">
+<a href="https://www.instagram.com/johnatashenrique/" target="blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.facebook.com/johnatas.henrique.75/">
+<a href="https://www.facebook.com/johnatas.henrique.75/" target="blank">
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/johnatashenrique/">
+<a href="https://www.linkedin.com/in/johnatashenrique/" target="blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -26,7 +26,7 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para johnatas.henrique@gmail.com para me encontrar.
-- 📝 Veja meu [Curriculum Vitae](https://gitconnected.com/johnatas-henrique/resume) para mais informações.
+- 📝 Veja meu <a href="https://gitconnected.com/johnatas-henrique/resume" target="blank">Curriculum Vitae</a> para mais informações.
 
 
 **Linguagens e ferramentas:**  
@@ -45,9 +45,9 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 </p>
 
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 
 <p>
