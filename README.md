@@ -1,13 +1,13 @@
-<a href="https://github.com/johnatas-henrique" target="blank">
+<a href="https://github.com/johnatas-henrique" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-<a href="https://www.instagram.com/johnatashenrique/" target="blank">
+<a href="https://www.instagram.com/johnatashenrique/" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a> 
-<a href="https://www.facebook.com/johnatas.henrique.75/" target="blank">
+<a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank">
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/johnatashenrique/" target="blank">
+<a href="https://www.linkedin.com/in/johnatashenrique/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -26,7 +26,7 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para johnatas.henrique@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/johnatas-henrique/resume" target="blank">Curriculum Vitae</a> para mais informações.
+- 📝 Veja meu <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">Curriculum Vitae</a> para mais informações.
 
 
 **Linguagens e ferramentas:**  
