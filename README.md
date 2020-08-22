@@ -31,12 +31,31 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
 
 **Linguagens e ferramentas:**  
 
-<code><img height="32" src="https://camo.githubusercontent.com/f72f377226de9f17aa8de60aacd287069503c807/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"></code><code><img height="32" src="https://camo.githubusercontent.com/f68dff6e71f5f47d3cbb727b0112b162b2cf32a1/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6373732d332e737667"></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="32" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png"></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><code><img height="32" src="https://img1.gratispng.com/20180702/evv/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e31e31b4.5891115215305261791237.jpg"><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</p>
 
+<p>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="40" height="40" />
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain.svg" width="40" height="40" />
+</p>
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><code><img height="32" src="https://image.flaticon.com/icons/png/512/873/873120.png"></code>
-
-![Meus github stats](https://github-readme-stats.vercel.app/api?username=johnatas-henrique&count_private=true&show_icons=true&theme=buefy)
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-henrique&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
+</p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnatas-henrique&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnatas-henrique" alt="johnatas-henrique" /> </p>
 
