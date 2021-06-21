@@ -14,18 +14,18 @@
 <br />
 <br />
 
-Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente trabalho como **Student in Summer Job na Trybe** 🚀. 
+Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente trabalho como **Pessoa Instrutora na Trybe** 🚀. 
 
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando backend com **Express** que é um framework em **Node.js**;
-- 🌱 Estou aprendendo como integrar minhas próprias **API** com meus projetos de **front-end**; 
+- 👨🏽‍💻 Estou estudando testes em backend com **Mocha** que é um framework de testes em **Node.js**;
+- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
 - 🤔 Meus hobbies são mecânica de motos e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para johnatas.henrique@gmail.com para me encontrar.
+- 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
 - 📝 Veja meu <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">Curriculum Vitae</a> para mais informações.
 
 
@@ -42,6 +42,7 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil, estou me capaci
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/> 
 </p>
 
 <p>
