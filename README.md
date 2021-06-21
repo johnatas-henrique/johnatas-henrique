@@ -26,8 +26,10 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente tra
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">Curriculum Vitae</a> para mais informações.
+- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
 
+<br />
+<br />
 
 **Linguagens e ferramentas:**  
 
@@ -51,12 +53,16 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente tra
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 
+
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-henrique&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=johnatas-henrique&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
 </p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnatas-henrique&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-henrique&layout=compact&theme=graywhite&title_color=268bd2" alt="johnatas-henrique" />
 </p>
+
+<br />
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnatas-henrique" alt="johnatas-henrique" /> </p>
 
