@@ -20,7 +20,7 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente tra
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando testes em backend com **Mocha** que é um framework de testes em **Node.js**;
+- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
 - 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
 - 🤔 Meus hobbies são mecânica de motos e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
