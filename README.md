@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/johnatas.henrique.75/" target="_blank">
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a> 
-<a href="https://www.linkedin.com/in/johnatashenrique/" target="_blank">
+<a href="https://www.linkedin.com/in/johnatas-henrique/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
