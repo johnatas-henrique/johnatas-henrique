@@ -26,7 +26,7 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente tra
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para **johnatas.henrique@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Veja meu Curriculum Vitae <a href="https://github.com/johnatas-henrique/johnatas-henrique/blob/master/curriculo.pdf" target="_blank">clicando aqui</a> para mais informações.
 
 <br />
 <br />
