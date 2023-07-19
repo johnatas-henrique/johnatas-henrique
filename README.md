@@ -54,13 +54,17 @@ Olá, me chamo **Johnatas Henrique**, sou de São Paulo, Brasil e atualmente tra
 </p>
 
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=johnatas-henrique&count_private=true&show_icons=true&theme=transparent&icon_color=268bd2&title_color=268bd2" alt="johnatas-henrique" />
-  
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatas-henrique&layout=compact&theme=transparent&title_color=268bd2" alt="johnatas-henrique" />
-</p>
+<picture>
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnatas-henrique&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnatas-henrique&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <br />
 <br />
